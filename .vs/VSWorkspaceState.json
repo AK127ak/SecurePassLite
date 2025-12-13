@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SecurePassLite",
+    "\\SecurePassLite\\Assets",
+    "\\SecurePassLite\\Models",
+    "\\SecurePassLite\\Properties",
+    "\\SecurePassLite\\Properties\\PublishProfiles",
+    "\\SecurePassLite\\Services",
+    "\\SecurePassLite\\ViewModels",
+    "\\SecurePassLite\\Views"
+  ],
+  "SelectedNode": "\\SecurePassLite\\Views\\LoginWindow.xaml",
+  "PreviewInSolutionExplorer": false
+}
